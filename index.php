@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width">
     <link href="style.css" rel="stylesheet" type="text/css" />
     <title> PÁGINA DE RECEITA </title>
+    <?php include 'style.php'; ?>
   </head>
   <body>
     <nav>
