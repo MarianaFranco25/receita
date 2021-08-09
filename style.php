@@ -1,3 +1,4 @@
+<style>
 body{
 background-color: #F5F0DC;
 font-family: Helvetica, Arial, sans-serif;
@@ -37,3 +38,4 @@ nav ul li{
 display: inline;
 margin-right: 50px;
 }
+</style>
